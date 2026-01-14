@@ -1,4 +1,4 @@
-import stdio
+import stdio 
 
 def cal_total(subtotal, final_taxes, final_tips):
     return subtotal + final_tips + final_taxes
